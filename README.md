@@ -5,12 +5,18 @@
 <a href="https://github.com/professorcode1/Computer-Graphics-Project">
 <img alt="preview" src="Game.gif" >
 </a>
+
 > Don't worry, its not that stuttery and pixelated! That's just the gif encoding.
+
 <br>
 <p>
 Its only slightly less realistic than the Microsoft Flight Simulator **BUT**
-1. Its significantly more performant 📈
-2. Its Free and Open Source 🤯
+ 
+
+ 1. Its significantly more performant 📈
+
+ 2. Its Free and Open Source 🤯
+
 </p>
 
 ----------------
