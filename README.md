@@ -10,7 +10,7 @@
 
 <br>
 <p>
-Its only slightly less realistic than the Microsoft Flight Simulator __ BUT __
+Its only slightly less realistic than the Microsoft Flight Simulator ** BUT **
  
 
  1. Its significantly more performant 📈
