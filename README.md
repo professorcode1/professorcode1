@@ -37,6 +37,6 @@ Boy do I have the thing for you!
 ---------------------
 
 <h4 align="center"> I have made a bunch of other things too, but I don't wanna make this page too long! Here's how you can reach me so we can talk about it!</h4>
-<p>
+<p align="center">
  <a href="mailto:raghkum2000@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
 </p>
