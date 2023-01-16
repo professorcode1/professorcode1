@@ -10,7 +10,7 @@
 
 <br>
 <p>
-Its only slightly less realistic than the Microsoft Flight Simulator <em>BUT</em>
+Its only slightly less realistic than the Microsoft Flight Simulator <strong>BUT</strong>>
 
  1. Its significantly more performant 📈
 
@@ -21,17 +21,17 @@ Its only slightly less realistic than the Microsoft Flight Simulator <em>BUT</em
 ----------------
 
 <p>
-You still here?😕
+You still here? 😕
 
-Ok so you don't wanna play the game🤔. 
+Ok so you don't wanna play the game 🤔. 
 
-Perhaps you are a nerd🤓 and would like to do some statistical analysis🧑‍🔬
+Perhaps you are a nerd 🤓 and would like to do some statistical analysis🧑‍🔬
 
 Boy do I have the thing for you!
 
 <p>
-<h2>Event Analysis</h2>
-<p>Check out <a href="https://github.com/professorcode1/Event-Analysis">this</a> python package I made that's used to perform Event Synchronisation and Event Coincidence Analysis. These are two methods used to calculate correlation b/w event series. Its **GPU accelerated** via CUDA so its ***super fast***🏎️. 
+<h2>Event Analysis 📊</h2>
+<p>Check out <a href="https://github.com/professorcode1/Event-Analysis">this</a> python package I made that's used to perform Event Synchronisation and Event Coincidence Analysis. These are two methods used to calculate correlation b/w event series. Its <strong>GPU accelerated</strong> via CUDA so its <strong>super fast</strong>🏎️. 
 </p>
 
 ---------------------
@@ -40,19 +40,3 @@ Boy do I have the thing for you!
 <p>
  <a href="mailto:raghkum2000@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
 </p>
-
-
-<!--
-**professorcode1/professorcode1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
