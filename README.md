@@ -1,9 +1,9 @@
 <h1 align="center">Hello 😁 I'm Raghav</h1>
-<h3 align="center">I like to code and make things.</h3><img alt=":3" src=":3.png" height="40" style="vertical-align:top; margin:4px" >
+<h3 align="center">I like to code and make things.</h3>
 
 <h2>Try this inhouse flight simulator I made!✈️✈️✈️</h2>
 <a href="https://github.com/professorcode1/Computer-Graphics-Project">
-<img alt="preview" src="ScreenShots/Game.gif" >
+<img alt="preview" src="Game.gif" >
 </a>
 >Don't worry, its not that stuttery and pixelated! That's just the gif encoding.
 <br>
