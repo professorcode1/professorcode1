@@ -19,11 +19,29 @@ Its only slightly less realistic than the Microsoft Flight Simulator <strong>BUT
 </p>
 
 ----------------
+<p>
+Not interested in the game?🤔
+
+I get it, games are for kids 🧒
+
+How would you like to make some quick cash through the stock market💸?
+
+Be the next Warren Buffett! 
+
+Check out this stock predition engine I made that runs Monte Carlo simulation on the GPU of stock prices!
+
+<a href="https://github.com/professorcode1/IntelHack">
+<img alt="preview" src="plot.png" >
+</a>
+</p>
+
+----------------
+
 
 <p>
 You still here? 😕
 
-Ok so you don't wanna play the game 🤔. 
+Ok so you don't wanna play the game or make money 🤔. 
 
 Perhaps you are a nerd 🤓 and would like to do some statistical analysis🧑‍🔬
 
